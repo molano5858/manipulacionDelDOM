@@ -1,0 +1,1 @@
+Actividades y proyecto del curso Practico de JavaScript de Platzi, Manipulacion del DOM, adicionar escuchador de eventos.
